@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1462118443 source:c:\users\user\documents\coding\codeblocks\galaxy shooting\main.cpp
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+	<string>
+	<iostream>
+	<vector>
+	"declaration.cpp"
+	"galaxy_utility.cpp"
+	"Drawing.cpp"
+	"move.cpp"
+	"callback.cpp"
+
+1462169310 c:\users\user\documents\coding\codeblocks\galaxy shooting\drawing.cpp
+	"declaration.cpp"
+
+1462118503 c:\users\user\documents\coding\codeblocks\galaxy shooting\declaration.cpp
+
+1462166940 c:\users\user\documents\coding\codeblocks\galaxy shooting\move.cpp
+
+1462118970 c:\users\user\documents\coding\codeblocks\galaxy shooting\callback.cpp
+	"declaration.cpp"
+
+1461776775 c:\users\user\documents\coding\codeblocks\galaxy shooting\utility.cpp
+	"declaration.cpp"
+
+1461972573 c:\users\user\documents\coding\codeblocks\galaxy shooting\galaxy_utility.cpp
+	"declaration.cpp"
+
