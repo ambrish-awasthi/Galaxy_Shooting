@@ -1,5 +1,5 @@
 
-Galaxian is an Open-GL based "old-day" type 2D game. 
+Galaxy Shooting is an Open-GL based "old-day" type 2D game. 
 This project was done as a part of Computer Graphics Course, 6th Semester (B.Tech), Computer Science and Engineering Department, Harcourt Butler Technological Institute, kanpur.
 
 To run on Windows
